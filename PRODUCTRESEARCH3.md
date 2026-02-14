@@ -1,13 +1,12 @@
-# Additional Features in Addition to DeerLab Features
+## Displaying Movements on GIS Maps
 
-## Real-Time Tracking of Movements
-One of the standout features that enhances the capabilities of DeerLab is the real-time tracking of movements between cameras. This functionality allows users to efficiently monitor animal activities across various regions by linking visual data from multiple camera feeds.
+Incorporating animal movement data into GIS maps allows for visual tracking and analysis of various species' movements. This data can highlight patterns based on size and species.
 
-### Defined Regions
-Users can define specific regions within the camera coverage area. This means that when an animal moves between these regions, the system is able to track its path, providing insights into its behavior, habits, and patterns. This data can be pivotal for researchers and wildlife enthusiasts, enabling more effective studies and conservation efforts.
+### Directions of Travel
+By utilizing graphical representations, the direction of travel can be easily visualized. Arrows or lines can indicate movement trajectories, enhancing understanding of habitat usage and navigation behavior.
 
-### Benefits of Real-Time Tracking
-- **Enhanced Monitoring**: Continuous updates on wildlife movement.
-- **Behavioral Insights**: Understanding how animals interact with different terrains.
-- **Efficient Resource Management**: Identifying areas of high animal activity can help in planning further research or resource allocation.
-- **User-Friendly Interface**: Simple tools to define and adjust regions as needed, ensuring flexibility and ease of use for real-time monitoring.
+### Implementation Steps
+1. **Collect Movement Data**: Gather data from tracking devices or studies.
+2. **GIS Software**: Use GIS software to import and analyze movement data.
+3. **Visual Representation**: Choose appropriate symbols and colors to represent different species or sizes. 
+4. **Interpretation**: Analyze the visual data for patterns and insights related to habitat preferences or migration paths.
